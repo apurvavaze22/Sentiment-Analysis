@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-Sentiment Analysis on Youtube data
+Sentiment Analysis on Youtube comments data
 
 Introduction:
 
